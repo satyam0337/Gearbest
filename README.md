@@ -3,17 +3,17 @@
 
 
 
-# EngageBay : Website_Clone
+# Gearbest : Website_Clone
 
 
 
-Engage Bay is a CRM website that provides customer sales, service and marketing support for growing businesses.
+Gearbest is a globally integrated eCommerce platform that provides customers with cost-effective products including electronics, phones, fashion, appliances, and more.
 
-Speaking of the technical aspects, the site is fairly static with very few features, but it is informative and has lots of loading, scrolling, and transition effects.
+Speaking of the technical aspects, the site is fairly static with very few features, 
 
 Website implements the functioning of an E-commerce Website that performs various functions like sign up, sign in, log out, subscriptions, billing, blogs, and much more.
 
-Designed the clone with the static features within the stipulated time. Used and applied HTML, CSS and JavaScript as well as BootStrap and Animation skills to create and test the clone. Worked with a 3-member research team for accomplishing the same. 
+Designed the clone with the static features within the stipulated time. Used and applied HTML, CSS and JavaScript the clone. Worked with a 4-member research team for accomplishing the same. 
 ## Tech Stack
 
 - HTML
