@@ -13,7 +13,7 @@ Speaking of the technical aspects, the site is fairly static with very few featu
 
 Website implements the functioning of an E-commerce Website that performs various functions like sign up, sign in, log out, subscriptions, billing, blogs, and much more.
 
-Designed the clone with the static features within the stipulated time. Used and applied HTML, CSS and JavaScript the clone. Worked with a 4-member research team for accomplishing the same. 
+Designed the clone with the static features within the stipulated time. Used and applied HTML, CSS and JavaScript the clone. Worked with a 6-member research team for accomplishing the same. 
 ## Tech Stack
 
 - HTML
@@ -99,10 +99,14 @@ Don't forget to give the project a star! Thanks again!
 
 ## Authors
 
-- [@kanhaiya chauhan ](https://www.github.com/kanhaiyachauhan037)
-- [@Deepti Bagel](https://www.github.com/dipti1144)
+- [@kanhaiya Chauhan ](https://www.github.com/kanhaiyachauhan037)
+- [@Kiahan kumar panda](https://github.com/kisanpanda3)
 - [@Rishav Roy](https://www.github.com/rishav)
-- [@Satyam Kumar](https://www.github.com/satyam0337)
+- [@Satyam Kumar](https://www.github.com/satyam0337) 
+- [@Moin Khan](https://www.github.com/moin1998khan)
+- [@Subrat Mishra](https://www.github.com/Subrat0802)
+
+
 
 ## Acknowledgements
 
